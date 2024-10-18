@@ -1,110 +1,77 @@
-<h1 align="center">Hi 👋, I'm Nazmul Hasan Nahin</h1>
-<h3 align="center">Software Developer | Django & REST Framework Enthusiast</h3>
+<div>
+<h2 align="center">
+  Welcome to Nazmul Hasan Nahin's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+</div>
 
+<div align='center'>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Junior+Software+Engineer;Web+Developer;Django+Specialist" alt="Typing SVG" /></a>
+</div>
+
+I am a passionate software developer with expertise in **Django**, **Django REST Framework**, and **Web Development**. My skills include working with **REST APIs**, **SQL**, **PostgreSQL**, **MySQL**, **HTML**, **CSS**, **Tailwind**, and **JavaScript**. I enjoy solving problems and am currently seeking opportunities in software development.
+
+🌱 **Currently learning:** Advanced web development techniques and software engineering principles.  
+💻 **Actively coding in:** Python, JavaScript, SQL  
+🎯 **Goals for 2024:** Secure a position as a Junior Software Engineer and contribute to impactful projects.  
+- 💼 You can visit my [Portfolio](#)  
+- CV - [Resume](#) 
+
+### 👨‍💻 Programming languages
+<p align='left'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="Python" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" alt="JavaScript" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/html.svg" alt="HTML" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/css.svg" alt="CSS" height="50" width="50" />
+</p>
+
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Skills </h2>
+<br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nazmulhasannahin&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulhasannahin" />
-</p>
-
----
-
-### 👨‍💻 About Me:
-- 💻 I’m passionate about building efficient backend systems using **Django** and **Django REST Framework**.
-- 🌱 Currently diving deeper into **APIs**, **SQL Databases** like **PostgreSQL**, and **MySQL**.
-- 💬 Ask me about **Python, Django, REST APIs**.
-- ⚡ Fun fact: When I’m not coding, I’m leveling up in video games!
-- 📫 How to reach me: **nahinn75@gmail.com**
-
----
-
-### 🛠️ Skills Overview:
-
-#### Frontend Development:
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** Bootstrap, Tailwind CSS
-- **Design Tools:** Figma
-
-#### Backend Development:
-- **Languages:** Python, Java
-- **Frameworks:** Django, Django REST Framework
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **APIs:** RESTful API Development
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,python,javascript,html,css,tailwind,sql" />
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats:
-
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Tools </h2>
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmulhasannahin&show_icons=true&locale=en&layout=compact" alt="nazmulhasannahin" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  </a>
 </p>
 
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+<div align="center" width=100%>
+  <a href="#"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="Competitive Programming" width=6%/></a>
+</div>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NazmulHasanNahin&theme=github_dark" width="33%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NazmulHasanNahin&theme=github_dark" width="33%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NazmulHasanNahin&theme=github_dark&utcOffset=8" width="33%">
+</div>
+
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulhasannahin&" alt="nazmulhasannahin" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Nazmul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NazmulHasanNahin&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NazmulHasanNahin&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Nazmul's Top Languages" height="230px"/>
 </p>
+</details>
 
----
+## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width=6.5%> My Dedication
+- 🥅 2023 Goals: Start my programming journey and achieve proficiency in Django and web development.
+- 🥅 2024 Goals: Secure a Junior Software Engineer position and contribute to open-source projects.
 
-### 🌐 Connect with me:
+<div align="center">
+  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/) 
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) 
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) 
+  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazmulhasannahin@gmail.com)
+</div>
 
-<p align="left">
-  <a href="https://linkedin.com/in/nazmul-hasan-nahin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmul-hasan-nahin" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/nazmulhasannahin0" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmulhasannahin0" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ok_nahin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ok_nahin" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/nazmulhasannahin" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nazmulhasannahin" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/nahinn75" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nahinn75" height="30" width="40" />
-  </a>
-</p>
+<div align="center"><p>Visitor count</p>
+![Visitor Count](https://profile-counter.glitch.me/{NazmulHasanNahin}/count.svg)
+</div>
