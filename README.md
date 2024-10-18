@@ -28,7 +28,7 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,python,javascript,c,cpp,html,css,tailwind," />
+    <img src="https://skillicons.dev/icons?i=python,django,javascript,c,cpp,html,css,tailwind" />
   </a>
 </p>
 
