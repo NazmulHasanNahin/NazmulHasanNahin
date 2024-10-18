@@ -5,10 +5,10 @@
 </div>
 
 <div align='center'>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Junior+Software+Engineer;Web+Developer;Django+Specialist" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Junior+Software+Engineer;Web+Developer;" alt="Typing SVG" /></a>
 </div>
 
-I am a passionate software developer with expertise in **Django**, **Django REST Framework**, and **Web Development**. My skills include working with **REST APIs**, **SQL**, **PostgreSQL**, **MySQL**, **HTML**, **CSS**, **Tailwind**, and **JavaScript**. I enjoy solving problems and am currently seeking opportunities in software development.
+I am a passionate software developer with expertise in **Django**, **Django REST Framework**, and **Web Development**. My skills include working with **REST APIs**, **SQL**, **HTML**, **CSS**, **Tailwind**, and **JavaScript**. I enjoy solving problems and am currently seeking opportunities in software development.
 
 🌱 **Currently learning:** Advanced web development techniques and software engineering principles.  
 💻 **Actively coding in:** Python, JavaScript, SQL  
@@ -17,7 +17,7 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 
 ### 👨‍💻 Programming languages
 <p align='left'>
-<<img src="https://skillicons.dev/icons?i=python,javascript,java" />
+<img src="https://skillicons.dev/icons?i=python,javascript,java" />
 </p>
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Skills </h2>
@@ -43,13 +43,13 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NazmulHasanNahin&theme=github_dark&utcOffset=8" width="33%">
 </div>
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Nazmul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NazmulHasanNahin&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NazmulHasanNahin&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Nazmul's Top Languages" height="230px"/>
 </p>
-</details>
+
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width=6.5%> My Dedication
 - 🥅 2023 Goals: Start my programming journey and achieve proficiency in Django and web development.
