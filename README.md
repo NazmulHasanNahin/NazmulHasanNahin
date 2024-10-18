@@ -16,6 +16,21 @@
 
 ---
 
+### 🛠️ Skills Overview:
+
+#### Frontend Development:
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** Bootstrap, Tailwind CSS
+- **Design Tools:** Figma
+
+#### Backend Development:
+- **Languages:** Python, Java
+- **Frameworks:** Django, Django REST Framework
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **APIs:** RESTful API Development
+
+---
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
