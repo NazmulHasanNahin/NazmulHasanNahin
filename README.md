@@ -8,6 +8,10 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Junior+Software+Engineer;Web+Developer;" alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+  <img src="https://i.ibb.co/gv7x9Hj/cover-image.jpg" alt="Cover Image" width="800">
+</div>
+
 I am a passionate software developer with expertise in **Django**, **Django REST Framework**, and **Web Development**. My skills include working with **REST APIs**, **SQL**, **HTML**, **CSS**, **Tailwind**, and **JavaScript**. I enjoy solving problems and am currently seeking opportunities in software development.
 
 🌱 **Currently learning:** Advanced web development techniques and software engineering principles.  
