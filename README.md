@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://ibb.co.com/gv7x9Hj" alt="Cover Image" width="800">
+  <img src="https://i.ibb.co.com/pWPSwG0/Gray-White-Minimalist-Personal-Profile-Linkedin-Banner.png" alt="Cover Image" width="800">
 </div>
 
 I am a passionate software developer with expertise in **Django**, **Django REST Framework**, and **Web Development**. My skills include working with **REST APIs**, **SQL**, **HTML**, **CSS**, **Tailwind**, and **JavaScript**. I enjoy solving problems and am currently seeking opportunities in software development.
