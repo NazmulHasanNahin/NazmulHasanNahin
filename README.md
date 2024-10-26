@@ -72,6 +72,11 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazmulhasannahin&" alt="GitHub Streak Stats for Nazmul Hasan Nahin" />
+</p>
+
+
 <div align="center">
   
   ### Visitor Count:
