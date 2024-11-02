@@ -20,7 +20,7 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 
 
 ### 👨‍💻 Programming languages
-<p align='left'>
+<p align='center'>
 <img src="https://skillicons.dev/icons?i=python,javascript,java" />
 </p>
 
