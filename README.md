@@ -4,6 +4,7 @@
 </h2>
 </div>
 
+
 <div align='center'>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=390&lines=Junior+Software+Engineer;Web+Developer;" alt="Typing SVG" /></a>
 </div>
