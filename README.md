@@ -17,7 +17,7 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 
 🌱 **Currently learning:** Advanced web development techniques and software engineering principles.  
 💻 **Actively coding in:** Python, JavaScript, SQL  
-🎯 **Goals for 2024:** Secure a position as a Junior Software Engineer and contribute to impactful projects.  
+🎯 **Goals for 2025:** Secure a position as a Junior Software Engineer and contribute to impactful projects.  
 
 
 ### 👨‍💻 Programming languages
@@ -57,8 +57,8 @@ I am a passionate software developer with expertise in **Django**, **Django REST
 
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width=6.5%> My Dedication
-- 🥅 2023 Goals: Start my programming journey and achieve proficiency in Django and web development.
-- 🥅 2024 Goals: Secure a Junior Software Engineer position and contribute to open-source projects.
+- 🥅 2024 Goals: Start my programming journey and achieve proficiency in Django and web development.
+- 🥅 2025 Goals: Secure a Junior Software Engineer position and contribute to open-source projects.
 
 <div align="center">
   
